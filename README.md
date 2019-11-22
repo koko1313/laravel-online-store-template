@@ -20,10 +20,18 @@ composer update
 
 2. In **components-guide** folder there is **templatedb.sql** file. This file contains database startup SQL code.
 
-3. In **config/database.php**
+3. Copy **.env.example** file, rename it to **.env** and manage database connection in it.
+
+4. In **config/database.php**
 
 ```php
 strict => false
+```
+
+5. In terminal run
+
+```
+php artisan key:generate
 ```
 
 ## Using of the components
