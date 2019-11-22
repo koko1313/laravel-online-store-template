@@ -1,4 +1,4 @@
-### Corousel
+# Corousel
 
 1. **Model**: *Carousel.php*
 
