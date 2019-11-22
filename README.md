@@ -15,7 +15,7 @@ The project is built by components that can be implemented and combinated to wor
 1. To run this project, you need **composer** to be installed. Then in the terminal run
 
 ```
-composer updated
+composer update
 ```
 
 2. In **components-guide** folder there is **templatedb.sql** file. This file contains database startup SQL code.
